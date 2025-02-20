@@ -12,9 +12,11 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.66.0",
+    "axios": "^1.7.9",
     "msw": "^2.7.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-pet-hotel": "file:",
     "wouter": "^3.5.1"
   },
   "devDependencies": {
